@@ -157,4 +157,4 @@ Enable *Plug-in trace log* (Power Platform admin center → Environment → Sett
 
 ## Author
 
-[Your name] – [GitHub / LinkedIn link]
+Shehryar – https://github.com/shehryar26
